@@ -1,0 +1,10 @@
+FLASK_APP='manage.py'
+FLASK_ENV=development
+SECRET_KEY='you-will-never-guess'
+DB_USERNAME=flaskblog_user
+DB_PASSWORD=flaskblog_password
+DB_HOST=localhost
+DATABASE_NAME=flaskblog
+MYSQL_ROOT_PASSWORD=rootpass
+BLOG_NAME='Flask Blog'
+BLOG_POST_IMAGES_PATH='/opt/flaskblog/static/images/uploads'

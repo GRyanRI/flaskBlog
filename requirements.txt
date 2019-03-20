@@ -1,0 +1,27 @@
+alembic==0.9.9
+click==6.7
+Flask==1.0.2
+Flask-Markdown==0.3
+Flask-Migrate==2.1.1
+Flask-SQLAlchemy==2.3.2
+# manages forms
+Flask-WTF==0.14
+itsdangerous==0.24
+Jinja2==2.10
+Mako==1.0.7
+# text input editor
+Markdown==2.6.11
+MarkupSafe==1.0
+# wrapper around python img library
+Pillow==5.3.0
+PyMySQL==0.8.1
+python-dateutil==2.7.3
+python-dotenv==0.8.2
+python-editor==1.0.3
+# allows us to produce URLs from text imputs
+python-slugify==1.2.5
+six==1.11.0
+SQLAlchemy==1.2.8
+Unidecode==1.0.22
+Werkzeug==0.14.1
+WTForms==2.2.1
